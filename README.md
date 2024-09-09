@@ -12,10 +12,10 @@ I'm passionate about web development and application development. Currently, I'm
 Here are some of the projects I've completed and am currently working on:
 
 ### Completed Projects
-- **Project Name 1**: Bookstore Database
+- **Bookstore Database**: A database for a small bookstore that manages inventory, customers, employees and orders.
 
 ### Ongoing Projects
-- **Project Name 3**: SMS Reminder Task Manager Tool
+- **Text Reminders**: SMS reminder program that uses Python and the Twilio API to send SMS reminders to recipients listed in a CSV file.
 
 Feel free to explore my repositories and connect with me!
 
