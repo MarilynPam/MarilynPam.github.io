@@ -1,5 +1,5 @@
 # MarilynPam.github.io
-# Marilyn Pamias: Portfolio Website
+# My Portfolio Website
 
 Welcome to my personal portfolio website! I'm Marilyn Pamias, a Computer Science student at Florida Polytechnic University with a concentration in Software Engineering. This website showcases my projects, skills, and professional journey.
 
